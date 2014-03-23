@@ -17,7 +17,7 @@
     <asset src="www/AdMobPlugin.js" target="AdMobPlugin.js" />
     
 	<engines>
-      <engine name="cordova" version="&lt;3.0.0" />
+      <engine name="cordova" version=">=3.0.0" />
     </engines>	
     
     <!-- android -->
